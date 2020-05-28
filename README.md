@@ -1,2 +1,32 @@
 # taxiapp_assessment
 Mahlalela Entertainment Production
+
+
+TAXI TV™ WEB-APP BRIEF
+NB: BEFORE THE WEB-APP LAUNCH THERE MUST BE A SIGN IN BOX FOR NAME, EMAIL AND CELL NUMBER
+NB: THE SITE MUST ALLOW THE USER TO CREATE PROFILE ONCE AS IT REQUIRES ID NUMBER
+NB: THE SITE MUST ALLOW USER TO REGISTER FOR LIFT-CLUB™ AND SERVICE PROVIDER/CAR OWNER TO ALSO
+REGISTER AND THE USER CAN CHECK IF THE SERVICE PROVIDER OR DRIVER THROUGH REFERENCE NUMBER IF THE
+DRIVER LICENCE IS VALID OR NOT.
+NB:WEB-APP MUST BE LIGHT AND NOT BUFFER
+HOME PAGE/LANDING PAGE
+ Top banner for advertising
+ Social Media (Twitter, Facebook, Instagram, Linkedin, Whatsapp & Skype)
+ Stream on Demand (SOD) Movies, Drama, Series, Comedy and etc.) BUTTON
+ Bus, Metrorail & Gautrain (Daily Timetable)
+ Visitors stats
+ Subscription Button
+ RAF Assistance Button
+ Current Affairs and Latest News feed banner (Moving from left to right)
+ Traffic Updates & Lotto Updates
+ Taxi FM (Button)
+OTHER PAGES
+ ABOUT US
+ NETFLIX (SUBSCRIBE & WATCH)
+ ADVERTISE WITH US
+ YOUR STORY
+ TEEN JOURNALIST
+ COMMUTER CHAT (MESSANGER)
+ LIFT CLUB (CREATE PROFILE & REGISTER)
+
+NB: SUBMIT THE LAYOUT WITHIN 10 DAYS
