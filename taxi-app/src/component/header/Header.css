@@ -1,5 +1,5 @@
 .banner-user{
-    height: 220px;
+    height: 120px;
   }
   .banner-user-elem{
     text-align: center;
@@ -9,10 +9,10 @@
   }
   .banner-user-elem .banner-user-title{
     font-size: 32px;
-    top: 40%;
+    top: 10%;
   }
   .banner-user-elem .banner-user-text{
-    top: 40%;
+    top: -15%;
   }
   .banner-anim-elem .bg{
     width: 100%;
