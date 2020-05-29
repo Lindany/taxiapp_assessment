@@ -10,6 +10,8 @@ import {
   TeamOutlined,
   UserOutlined,
 } from '@ant-design/icons';
+import SocialMedia from './component/footer/Footer';
+import HeaderComponent from './component/header/Header';
 
 const { Header, Content, Footer, Sider } = Layout;
 const { SubMenu } = Menu;
@@ -56,7 +58,9 @@ export default class App extends Component {
           </Menu>
         </Sider>
         <Layout className="site-layout">
-          <Header className="site-layout-background" style={{ padding: 0 }} />
+          <Header className="site-layout-background" style={{ padding: 0, display: 'inline-grid' }} >
+            <HeaderComponent/>
+          </Header>
           <Content style={{ margin: '0 16px' }}>
             <Breadcrumb style={{ margin: '16px 0' }}>
               <Breadcrumb.Item>User</Breadcrumb.Item>
@@ -66,7 +70,7 @@ export default class App extends Component {
               Bill is a cat.
             </div>
           </Content>
-          <Footer style={{ textAlign: 'center' }}>Ant Design ©2018 Created by Ant UED</Footer>
+          <Footer style={{ textAlign: 'center' }}><SocialMedia/></Footer>
         </Layout>
       </Layout>
     );
