@@ -22,6 +22,7 @@ import {
 } from '@ant-design/icons';
 import SocialMedia from './component/footer/Footer';
 import HeaderComponent from './component/header/Header';
+import VideoPlayer from './component/video/Video';
 
 const { Header, Content, Footer, Sider } = Layout;
 const { SubMenu } = Menu;
@@ -99,7 +100,7 @@ export default class App extends Component {
               <Breadcrumb.Item>Bill</Breadcrumb.Item>
             </Breadcrumb>
             <div className="site-layout-background" style={{ padding: 24, minHeight: 360 }}>
-             Video Live Stream
+             <VideoPlayer/>
             </div>
           </Content>
           <Footer style={{ textAlign: 'center' }}><SocialMedia/></Footer>
